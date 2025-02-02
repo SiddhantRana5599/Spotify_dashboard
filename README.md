@@ -1,4 +1,5 @@
 Overview: The Spotify Dashboard project aims to create a dynamic and interactive user interface for displaying my personalized Spotify data for the last 6 years(2019-2025). The dashboard pulls information from my Spotify data(JSON files) to showcase real-time user statistics such as top tracks, favorite artists, listening history, song end reason and in which part of the day I listened the most. The interface is designed to provide a user-friendly experience while offering in-depth insights into my music preferences and activity.
+![dashboard](https://github.com/user-attachments/assets/88cef16d-5370-4a5d-893d-687905a657f5)
 
 Overall Listening:
 
@@ -33,9 +34,13 @@ Diverse Catalog: I have explored a wide range of music, with 989 unique artists,
 Original Spotify Dataset:
 
 Date and time of when the stream ended in UTC format (Coordinated Universal Time zone).
+
 Your Spotify username.
+
 Platform used when streaming the track (e.g. Android OS, Google Chromecast).
+
 For how many milliseconds the track was played.
+
 Country code of the country where the stream was played.
 IP address used when streaming the track.
 User agent used when streaming the track (e.g. a browser, like Mozilla Firefox, or Safari).
@@ -53,7 +58,10 @@ Information whether the user skipped to the next song.
 Information whether the track was played in offline mode.
 Timestamp of when offline mode was used, if it was used.
 Information whether the track was played during a private session.
+
 But after data cleaning ,data preprocessing and removing redundant data:undefinedReason End :
+
+![dataset_cleaned](https://github.com/user-attachments/assets/2b7d59db-677a-45c9-82b2-0096381cd241)
 
 “trackdone” - The track played to its end
 
@@ -78,6 +86,7 @@ But after data cleaning ,data preprocessing and removing redundant data:undefine
 Part of Day:
 
 Data model:
+![model](https://github.com/user-attachments/assets/02c3c863-86de-47b4-a36c-1f8c34eef07c)
 
 undefined
 
