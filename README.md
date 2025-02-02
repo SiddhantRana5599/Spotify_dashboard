@@ -1,4 +1,5 @@
 Overview: The Spotify Dashboard project aims to create a dynamic and interactive user interface for displaying my personalized Spotify data for the last 6 years(2019-2025). The dashboard pulls information from my Spotify data(JSON files) to showcase real-time user statistics such as top tracks, favorite artists, listening history, song end reason and in which part of the day I listened the most. The interface is designed to provide a user-friendly experience while offering in-depth insights into my music preferences and activity.
+
 ![dashboard](https://github.com/user-attachments/assets/88cef16d-5370-4a5d-893d-687905a657f5)
 
 Overall Listening:
